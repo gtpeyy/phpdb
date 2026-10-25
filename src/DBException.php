@@ -1,5 +1,5 @@
 <?php
-namespace bybzmt\DB;
+namespace gtpyyx\DB;
 
 class DBException extends \Exception
 {

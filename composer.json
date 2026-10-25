@@ -1,15 +1,15 @@
 {
-    "name": "gtpeyy/phpdb",
+    "name": "gtpyyx/phpdb",
     "description": "php db tools for pdo",
     "keywords": ["db tools", "pdo"],
-    "homepage": "http://github.com/gtpeyy/phpdb",
+    "homepage": "http://github.com/gtpyyx/phpdb",
     "type": "library",
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "gtpeyy",
-            "email": "other@gtpeyy.me",
-            "homepage": "http://github.com/gtpeyy"
+            "name": "gtpyyx",
+            "email": "other@gtpyyx.me",
+            "homepage": "http://github.com/gtpyyx"
         }
     ],
     "require": {
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "gtpeyy\\DB\\": "src/"
+            "gtpyyx\\DB\\": "src/"
         }
     }
 }

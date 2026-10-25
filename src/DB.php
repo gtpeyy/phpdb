@@ -5,7 +5,7 @@
  *
  */
 
-namespace bybzmt\DB;
+namespace gtpyyx\DB;
 
 use \PDO;
 

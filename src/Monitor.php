@@ -1,5 +1,5 @@
 <?php
-namespace bybzmt\DB;
+namespace gtpyyx\DB;
 
 /**
  * 数据库连执行情况分析
