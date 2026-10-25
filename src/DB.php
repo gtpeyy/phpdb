@@ -172,7 +172,7 @@ class DB extends \PDO
 
 		foreach ($feilds as $key => $val) {
 			$keys[] = "`{$key}`";
-			$vals[] = $this->quote($val);
+			$vals[] = $this->quote((is_null($val) ? '': $val));
 		}
 
 		$keys = implode(', ', $keys);
